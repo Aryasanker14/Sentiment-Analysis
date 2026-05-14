@@ -11,7 +11,7 @@ Classify text reviews as **Positive / Neutral / Negative** using **NLTK's VADER*
 
 ## How to run
 ```bash
-pip install -r ../requirements.txt
+pip install nltk
 python sentiment_vader.py
 ```
 
